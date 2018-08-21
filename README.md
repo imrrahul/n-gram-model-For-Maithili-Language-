@@ -3,18 +3,18 @@ This Project is made for n-gram model (here 5-gram model)using python for Maithi
 made it available for public and improvement can be made.
 
 #n-gram model---
-s='This is Rahul Ranjan and I have built the ngram model here'
-#Unigram -model (1)__
-[Wordlist(['This']),__ 
- Wordlist(['is']),__
- Wordlist(['Rahul']),
- Wordlist(['Ranjan']),
- Wordlist(['and']),
- Wordlist(['I']),
- Wordlist(['have']),
- Wordlist(['built']),
- Wordlist(['the']),
- Wordlist(['ngram']),
+s='This is Rahul Ranjan and I have built the ngram model here'</br></br>
+#Unigram -model (1)</br>
+[Wordlist(['This']),</br>
+ Wordlist(['is']),</br>
+ Wordlist(['Rahul']),</br>
+ Wordlist(['Ranjan']),</br>
+ Wordlist(['and']),</br>
+ Wordlist(['I']),</br>
+ Wordlist(['have']),</br>
+ Wordlist(['built']),</br>
+ Wordlist(['the']),</br>
+ Wordlist(['ngram']),</br>
  Wordlist(['model']),
  Wordlist(['here'])]
  
