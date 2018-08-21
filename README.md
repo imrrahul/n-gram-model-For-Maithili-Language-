@@ -2,7 +2,8 @@
 This Project is made for n-gram model (here 5-gram model)using python for Maithili language but can be changed for any language, so that I have
 made it available for public and improvement can be made.</br></br>
 
-#n-gram model---
+#n-gram model---</br></br>
+
 s='This is Rahul Ranjan and I have built the ngram model here'</br></br>
 #Unigram -model (1)</br>
 [Wordlist(['This']),</br>
