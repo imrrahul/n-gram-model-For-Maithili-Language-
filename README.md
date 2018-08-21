@@ -5,7 +5,7 @@ made it available for public and improvement can be made.</br></br>
 #n-gram model---</br></br>
 
 s='This is Rahul Ranjan and I have built the ngram model here'</br></br>
-#Unigram -model (1)</br>
+# Unigram -model (1)</br>
 [Wordlist(['This']),</br>
  Wordlist(['is']),</br>
  Wordlist(['Rahul']),</br>
@@ -19,7 +19,7 @@ s='This is Rahul Ranjan and I have built the ngram model here'</br></br>
  Wordlist(['model']),</br></br>
  Wordlist(['here'])]</br</br>
  
-#Bigram -model(2)</br></br>
+# Bigram -model(2)</br></br>
 [Wordlist(['This',' is']),</br>
  Wordlist(['is',' Rahul ']),</br>
  Wordlist(['Rahul',' Ranjan']),</br>
@@ -32,7 +32,7 @@ s='This is Rahul Ranjan and I have built the ngram model here'</br></br>
  Wordlist(['ngram',' model']),</br>
  Wordlist(['model','here'])]</br>
  
-#Trigram -model (3) </br></br>
+# Trigram -model (3) </br></br>
  [Wordlist(['This',' is', 'Rahul']),</br>
  Wordlist(['is',' Rahul ','Ranjan ']),</br>
  Wordlist(['Rahul',' Ranjan' ,'and']),</br>
@@ -45,7 +45,7 @@ s='This is Rahul Ranjan and I have built the ngram model here'</br></br>
  Wordlist(['ngram',' model', here'])]</br></br>
  .... and so on
  This is written just for your understanding - </br></br>
- #Implementation of this can be executed as - -</br>
+ # Implementation of this can be executed as - -</br>
  1.) Download the zip file and Unzip it.</br>
  2.) Run the command - python3 n_gram.py and obtain the 5-gram default set
      you can edit it to obtain n-gram model,where n=1,2,3,....n </br>
