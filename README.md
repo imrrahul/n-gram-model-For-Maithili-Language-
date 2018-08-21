@@ -4,9 +4,9 @@ made it available for public and improvement can be made.
 
 #n-gram model---
 s='This is Rahul Ranjan and I have built the ngram model here'
-#Unigram -model (1)
-[Wordlist(['This']),
- Wordlist(['is']),
+#Unigram -model (1)__
+[Wordlist(['This']),__ 
+ Wordlist(['is']),__
  Wordlist(['Rahul']),
  Wordlist(['Ranjan']),
  Wordlist(['and']),
